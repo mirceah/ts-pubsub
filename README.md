@@ -44,7 +44,7 @@ pubSubService.publish(ev);
 
 // Subscriber
 pubSubService.watch(['t1']).subscribe((ev) => {
-  console.log(ev.data as EventTypes['t1']).name;
+  console.log((ev.data as EventTypes['t1']).name);
 });
 ```
 
