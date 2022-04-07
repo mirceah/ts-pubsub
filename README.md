@@ -8,6 +8,8 @@ This project was built starting from [typescript-starter](https://github.com/bit
 
 1. Cleanup package.json scripts. Right now there are a lot recipes that might never be used.
 2. Add jest-marble tests
+3. Fix `npm audit` reported issues
+4. Add usage examples
 
 # Overview
 
