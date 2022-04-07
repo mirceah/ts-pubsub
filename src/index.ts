@@ -1,1 +1,2 @@
-export * from './lib/number';
+export * from './lib/pubsub.service';
+export * from './lib/pubsub.models';
